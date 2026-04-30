@@ -6,7 +6,7 @@ const STORAGE_KEY = 'master_news_articles'
 const seedArticles = [
   {
     id: 'seed-1',
-    title: 'Global Markets are dead',
+    title: 'Global Markets are all dead',
     author: 'Editorial Desk',
     category: 'Business',
     summary: 'Major indices closed at record highs amid strong earnings from technology firms.',
