@@ -12,7 +12,7 @@ export default function Home() {
       <section className="hero">
         <div>
           <p className="eyebrow">Today's Headlines</p>
-          <h1>Master — Where Stories die</h1>
+          <h1>Master — Where Stories </h1>
           <p className="hero-sub">
             Independent journalism, community contributions, and the news that matters.
             Read the latest, browse by category, or share your own story.
